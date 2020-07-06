@@ -7,11 +7,12 @@ VolumeKeys is an [AutoHotKey](https://www.autohotkey.com) script.
 3. Run `VolumeKeys.ahk` and/or place it in the `Startup` folder.
 
 ### Controls
-|    |             |
-|:---|:------------|
-| F1 | (un)Mute    |
-| F2 | Volume Down |
-| F3 | Volume Up   |
+|        |                |
+|:-------|:---------------|
+| F1     | (un)Mute       |
+| F2     | Volume Down    |
+| F3     | Volume Up      |
+| ESC+F1 | Suspend Script |
 
 ### Screenshot
 ![screenshot.png did not load correctly](/screenshot.png)
