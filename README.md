@@ -16,3 +16,6 @@ VolumeKeys is an [AutoHotKey](https://www.autohotkey.com) script.
 
 ### Screenshot
 ![screenshot.png did not load correctly](/screenshot.png)
+
+### Key Stickers
+![keystickers.png did not load correctly](/keystickers.png)
