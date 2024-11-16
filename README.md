@@ -9,9 +9,10 @@ VolumeKeys is an [AutoHotKey](https://www.autohotkey.com) script.
 ### Controls
 |        |                |
 |:-------|:---------------|
-| F1     | Mute/Unmute    |
+| F1     | Pause          |
 | F2     | Volume Down    |
 | F3     | Volume Up      |
+| F4     | Mute/Unmute    |
 | ESC+F1 | Suspend Script |
 
 ### Screenshot
